@@ -170,16 +170,16 @@ developer:
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asifkarim683&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=9ECE6A&icon_color=7AA2F7&bg_color=0D1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Asifkarim683&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=9ECE6A&icon_color=7AA2F7&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asifkarim683&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=9ECE6A&bg_color=0D1117" alt="Top Languages" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Asifkarim683&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=9ECE6A&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifkarim683&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF6F00&currStreakLabel=00D2FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Asifkarim683&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF6F00&currStreakLabel=00D2FF" alt="GitHub Streak" />
   </p>
 
   <p align="center">
