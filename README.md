@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Anthropic+Certified+AI+%26+Prompting+Specialist;Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Major+Project:+Retinopathy+AI+(98%25+Acc);Anthropic+Certified+AI+%26+Prompting+Specialist;Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -35,12 +35,14 @@ developer:
     Experienced in designing scalable ERP systems, full-stack platforms (Spring Boot + React),
     and publishing peer-reviewed deep learning research.
   key_highlights:
+    - Major Project: Two-Stage Retinopathy Detection & Severity AI (98% Acc, 0.96 Kappa)
     - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
     - Experience: Software Engineering Trainee at Skill Revelation India (PHP / ERP Systems)
     - Hackathons: Built 5 prototypes with top-3 podium finishes (Odoo, IIT, Gen-AI)
     - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
 
+- 👁️ **Major Project**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM heatmaps, and Gemini 2.5 Flash clinical report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
 - 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
 - 💼 **Industry Experience**: Built structured, responsive ERP systems and dynamic web applications at **Skill Revelation India**.
 - 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
@@ -78,6 +80,24 @@ developer:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><b>👁️ Diabetic Retinopathy AI (Major Project)</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-2.2%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Accuracy-98.09%25-brightgreen?style=flat-square" />
+      </p>
+      <p>A two-stage deep learning pipeline for automated retinal fundus screening and 4-tier severity grading with Ben Graham preprocessing, Grad-CAM visual heatmaps, and Gemini multimodal clinical reports.</p>
+      <ul>
+        <li><b>Stage 1:</b> Binary screening (98.09% Acc, 0.9988 AUC, 0.9614 Kappa)</li>
+        <li><b>Stage 2:</b> Multi-class severity classification (Mild, Moderate, Severe, Proliferative)</li>
+        <li><b>Explainable AI & GenAI:</b> Grad-CAM attention maps + doctor-style Gemini diagnosis notes</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning"><b>Explore Major Project Repo ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><b>📜 IEEE Research: Canine Sentiment Analysis</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/IEEE_Xplore-2025-00629B?style=flat-square&logo=ieee&logoColor=white" />
@@ -93,6 +113,8 @@ developer:
         <a href="https://ieeexplore.ieee.org/document/11448757"><b>Read Publication on IEEE ➔</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><b>⚔️ CodeArena: Coding Platform</b></h3>
       <p align="center">
@@ -100,7 +122,7 @@ developer:
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
       </p>
-      <p>A full-stack competitive programming and coding platform built with Spring Boot and React, engineered as a group project during the Fullstack Java Developer certification at Centurion University.</p>
+      <p>A full-stack competitive programming and coding platform built with Spring Boot and React, engineered during the Fullstack Java Developer certification at Centurion University.</p>
       <ul>
         <li>Interactive problem sets, test case evaluation & leaderboard</li>
         <li>Clean REST API architecture + responsive React frontend</li>
@@ -109,8 +131,6 @@ developer:
         <a href="https://github.com/Asifkarim683/codearena"><b>Explore Repository ➔</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><b>🤖 AI Payment Failure Recovery Agent</b></h3>
       <p align="center">
@@ -127,18 +147,16 @@ developer:
         <a href="https://github.com/Asifkarim683/ai-payment-failure-recovery-agent"><b>Explore Repository ➔</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center"><b>📄 AI Resume Agent</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/GenAI-8E75B2?style=flat-square" />
       </p>
-      <p>AI-driven resume parsing and ATS optimization engine using modern LLMs to evaluate candidate resumes, calculate match scores against job postings, and offer targeted improvements.</p>
-      <ul>
-        <li>Automated semantic matching & keyword alignment</li>
-        <li>Instant formatting feedback & ATS readiness scoring</li>
-      </ul>
+      <p align="center">AI-driven resume parsing and ATS optimization engine using modern LLMs to evaluate candidate resumes, calculate match scores against job postings, and offer targeted improvements.</p>
       <p align="center">
         <a href="https://github.com/Asifkarim683/ai-resume-agent"><b>Explore Repository ➔</b></a>
       </p>
