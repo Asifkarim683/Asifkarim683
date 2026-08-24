@@ -78,7 +78,7 @@
         font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
       }
 
-      /* Animated Floating Stars & Particles */
+      /* Animated Floating Stars &amp; Particles */
       @keyframes float1 {
         0%, 100% { transform: translateY(0px) scale(0.9); opacity: 0.3; }
         50% { transform: translateY(-12px) scale(1.2); opacity: 0.9; }
@@ -91,17 +91,12 @@
         0%, 100% { transform: scale(1); opacity: 1; }
         50% { transform: scale(0.7); opacity: 0.4; }
       }
-      @keyframes laserMove {
-        0% { transform: translateX(-900px); }
-        100% { transform: translateX(900px); }
-      }
 
       .p-star-1 { animation: float1 4s ease-in-out infinite; }
       .p-star-2 { animation: float2 5s ease-in-out infinite 1s; }
       .p-star-3 { animation: float1 6s ease-in-out infinite 2s; }
       .p-star-4 { animation: float2 4.5s ease-in-out infinite 0.5s; }
       .pulse-dot { animation: pulseDot 2s ease-in-out infinite; transform-origin: 295px 44px; }
-      .laser-anim { animation: laserMove 4s linear infinite; }
     </style>
   </defs>
 
@@ -113,7 +108,7 @@
   <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#purpleGlow)" />
   <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#cyanGlow)" />
 
-  <!-- Cyber Grid Pattern Lines (Subtle) -->
+  <!-- Cyber Grid Pattern Lines -->
   <g opacity="0.07" stroke="#ffffff" stroke-width="1">
     <line x1="100" y1="0" x2="100" y2="240" />
     <line x1="200" y1="0" x2="200" y2="240" />
@@ -128,7 +123,7 @@
     <line x1="0" y1="180" x2="900" y2="180" />
   </g>
 
-  <!-- Floating Star Sparkles & Glowing Particles -->
+  <!-- Floating Star Sparkles &amp; Glowing Particles -->
   <g class="p-star-1">
     <circle cx="120" cy="65" r="2.5" fill="#38bdf8" filter="url(#softGlow)" />
     <circle cx="780" cy="160" r="2" fill="#c084fc" filter="url(#softGlow)" />
@@ -148,45 +143,49 @@
 
   <!-- Top Status Pill Badge -->
   <g filter="url(#softGlow)">
-    <rect x="270" y="30" width="360" height="28" rx="14" fill="#0f172a" fill-opacity="0.8" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
+    <rect x="250" y="30" width="400" height="28" rx="14" fill="#0f172a" fill-opacity="0.85" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
   </g>
   <!-- Green Live Indicator Dot -->
-  <circle class="pulse-dot" cx="295" cy="44" r="4.5" fill="#10b981" filter="url(#glowEffect)" />
-  <text x="455" y="49" fill="#93c5fd" font-size="11.5" font-weight="700" letter-spacing="2.2" text-anchor="middle" class="font-mono">
-    AI AGENTS &amp; FULL-STACK ARCHITECT
+  <circle class="pulse-dot" cx="272" cy="44" r="4.5" fill="#10b981" filter="url(#glowEffect)" />
+  <text x="455" y="48" fill="#93c5fd" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle" class="font-mono">
+    WEB DEVELOPMENT &amp; AI ENGINEER
   </text>
 
   <!-- Main Hero Title -->
-  <text x="450" y="115" fill="url(#titleGradient)" font-size="44" font-weight="800" letter-spacing="1.5" text-anchor="middle" class="font-main" filter="url(#softGlow)">
+  <text x="450" y="115" fill="url(#titleGradient)" font-size="42" font-weight="800" letter-spacing="1.5" text-anchor="middle" class="font-main" filter="url(#softGlow)">
     ASIF KARIM
   </text>
 
-  <!-- Subtitle with Bullet Points -->
-  <text x="450" y="152" fill="#94a3b8" font-size="14.5" font-weight="500" text-anchor="middle" class="font-main">
-    Autonomous AI Agents <tspan fill="#38bdf8">✦</tspan> Enterprise Spring Boot Systems <tspan fill="#38bdf8">✦</tspan> Modern Web Platforms
+  <!-- Subtitle with CV Highlights -->
+  <text x="450" y="152" fill="#94a3b8" font-size="14" font-weight="500" text-anchor="middle" class="font-main">
+    Full-Stack Systems (Spring Boot &amp; React) &#x2726; AI &amp; Deep Learning &#x2726; IEEE Published Researcher
   </text>
 
   <!-- Interactive Tech Stack Pills -->
-  <g class="font-mono" font-size="11.5" font-weight="600" text-anchor="middle">
+  <g class="font-mono" font-size="11" font-weight="600" text-anchor="middle">
     <!-- Pill 1: Spring Boot -->
-    <rect x="150" y="175" width="105" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
-    <text x="202" y="192" fill="#4ade80">⚡ Spring</text>
+    <rect x="115" y="176" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="172" y="193" fill="#4ade80">⚡ Spring Boot</text>
 
-    <!-- Pill 2: AI Agents -->
-    <rect x="268" y="175" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
-    <text x="325" y="192" fill="#38bdf8">🤖 AI Agents</text>
+    <!-- Pill 2: React -->
+    <rect x="240" y="176" width="95" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="287" y="193" fill="#60a5fa">⚛️ React</text>
 
-    <!-- Pill 3: React / TS -->
-    <rect x="395" y="175" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
-    <text x="452" y="192" fill="#60a5fa">⚛️ React / TS</text>
+    <!-- Pill 3: Deep Learning / AI -->
+    <rect x="345" y="176" width="125" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="407" y="193" fill="#38bdf8">🤖 Deep Learning</text>
 
     <!-- Pill 4: Python -->
-    <rect x="522" y="175" width="100" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
-    <text x="572" y="192" fill="#fbbf24">🐍 Python</text>
+    <rect x="480" y="176" width="95" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="527" y="193" fill="#fbbf24">🐍 Python</text>
 
-    <!-- Pill 5: Java -->
-    <rect x="634" y="175" width="95" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
-    <text x="681" y="192" fill="#f87171">☕ Java</text>
+    <!-- Pill 5: PHP / Laravel -->
+    <rect x="585" y="176" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="642" y="193" fill="#a78bfa">🐘 PHP/Laravel</text>
+
+    <!-- Pill 6: Java -->
+    <rect x="710" y="176" width="85" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="752" y="193" fill="#f87171">☕ Java</text>
   </g>
 
   <!-- Glowing Laser Line at Bottom -->

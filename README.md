@@ -1,19 +1,21 @@
 <div align="center">
 
-  <!-- Custom Animated Neon & Particle Header Banner -->
-  <img src="https://raw.githubusercontent.com/Asifkarim683/Asifkarim683/main/assets/header.svg" width="100%" alt="Asif Karim Header Banner" />
+  <!-- Custom Native Animated Neon Header Banner -->
+  <img src="./assets/header.svg" width="100%" alt="Asif Karim - Web Development & AI Engineer" />
 
   <br/><br/>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=650&height=45&lines=🚀+Architecting+Autonomous+AI+Agents;☕+Building+High-Throughput+Spring+Boot+Backends;⚛️+Engineering+Scalable+Full-Stack+Platforms;⚡+Mastering+Distributed+Systems+%26+Cloud+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Anthropic+Certified+AI+%26+Prompting+Specialist;Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:asifkarim683@gmail.com"><img src="https://img.shields.io/badge/Email-asifkarim683%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;
-    <a href="mailto:asifkarim683@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://ieeexplore.ieee.org/document/11448757"><img src="https://img.shields.io/badge/IEEE_Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
     <a href="https://github.com/Asifkarim683?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
   </p>
@@ -27,19 +29,23 @@
 ```yaml
 developer:
   name: Asif Karim
-  focus: AI Systems, Autonomous Agents & Enterprise Full-Stack Engineering
-  mindset: "Crafting resilient microservices and intelligent workflows with clean architecture."
-  strengths:
-    - Distributed Backend Architecture (Java & Spring Boot)
-    - Autonomous Multi-Agent Orchestration & LLM Tooling
-    - High-Performance Web Applications (React / TypeScript / Next.js)
+  title: Web Development and AI Engineer
+  summary: >
+    Passionate engineer bridging full-stack web development with applied AI & deep learning.
+    Experienced in designing scalable ERP systems, full-stack platforms (Spring Boot + React),
+    and publishing peer-reviewed deep learning research.
+  key_highlights:
+    - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
+    - Experience: Software Engineering Trainee at Skill Revelation India (PHP / ERP Systems)
+    - Hackathons: Built 5 prototypes with top-3 podium finishes (Odoo, IIT, Gen-AI)
+    - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
 
-- 🔭 **Currently Building**: Autonomous AI payment recovery workflows and interactive developer competitive platforms.
-- ⚡ **Core Competencies**: Java, Spring Boot, TypeScript, Python, Microservices, React, RESTful API Design.
-- 🌱 **Exploring**: Agentic Workflows, Retrieval-Augmented Generation (RAG), and Cloud-Native Orchestration.
-- 💬 **Ask Me About**: System Design, Spring Security, AI Agents, Full-Stack Architecture, and Database Optimization.
-- 📫 **Reach Me**: Open to discussions on high-impact projects, open-source collaborations, and engineering roles!
+- 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
+- 💼 **Industry Experience**: Built structured, responsive ERP systems and dynamic web applications at **Skill Revelation India**.
+- 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
+- ⚡ **Performance & UX Focus**: Track record of optimizing web application load times by 30% and implementing responsive layouts across 10+ production projects.
+- 🌱 **Continuous Learning**: Certified in 20 distinct Anthropic AI & Prompting courses, GeeksforGeeks DSA, and Fullstack Java development.
 
 ---
 
@@ -47,28 +53,63 @@ developer:
 
 <div align="center">
 
-  <p><b>Languages, Frameworks &amp; Tools</b></p>
+  <p><b>Core Languages, Frameworks &amp; Tools</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,next,tailwind,postgres,mysql,mongodb,redis,docker,git,github,fastapi,cpp,postman,vite&perline=10&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,php,laravel,js,ts,react,html,css,tailwind,postgres,mysql,mongodb,redis,docker,git,github,postman,cpp&perline=10&theme=dark" alt="Technical Arsenal" />
   </a>
 
   <br/><br/>
 
-| Domain | Technologies |
+| Domain | Technologies & Skills |
 | :--- | :--- |
-| **Backend & Microservices** | `Java` `Spring Boot` `Spring Security` `Hibernate / JPA` `Node.js` `Express.js` `FastAPI` |
-| **Frontend & UI** | `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5 / CSS3` `Vite` |
-| **AI & Agentic Systems** | `Autonomous Agents` `LangChain` `OpenAI API` `Google Gemini` `RAG Pipelines` |
-| **Databases & Cache** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite` |
-| **DevOps & Tooling** | `Docker` `Git` `GitHub Actions` `Postman` `Linux` `IntelliJ IDEA` `VS Code` |
+| **Languages** | `Java` `Python` `PHP` `JavaScript (ES6+)` `TypeScript` `SQL` `HTML5` `CSS3` `C++` |
+| **Backend Development** | `Spring Boot` `Laravel` `PHP` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` |
+| **Frontend Development** | `React` `Tailwind CSS` `JavaScript` `Responsive UI/UX` `HTML5/CSS3` `Vite` |
+| **AI & Deep Learning** | `Deep Learning` `Computer Vision` `Machine Learning` `Prompt Engineering (Anthropic x20)` `LLM Agents` |
+| **Databases & Storage** | `MySQL` `PostgreSQL` `MongoDB` `Redis` `DBMS Principles` |
+| **DevOps & Tools** | `Git` `GitHub` `Docker` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
 
 </div>
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Key Projects & Research
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>📜 IEEE Research: Canine Sentiment Analysis</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IEEE_Xplore-2025-00629B?style=flat-square&logo=ieee&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer_Vision-00D2FF?style=flat-square" />
+      </p>
+      <p>Peer-reviewed scientific research paper utilizing computer vision and deep learning architectures to classify and interpret sentiment patterns from canine facial and behavioral features.</p>
+      <ul>
+        <li>Published by the Institute of Electrical and Electronics Engineers (IEEE)</li>
+        <li>Document ID: <a href="https://ieeexplore.ieee.org/document/11448757"><b>IEEE Xplore #11448757</b></a></li>
+      </ul>
+      <p align="center">
+        <a href="https://ieeexplore.ieee.org/document/11448757"><b>Read Publication on IEEE ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>⚔️ CodeArena: Coding Platform</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
+      </p>
+      <p>A full-stack competitive programming and coding platform built with Spring Boot and React, engineered as a group project during the Fullstack Java Developer certification at Centurion University.</p>
+      <ul>
+        <li>Interactive problem sets, test case evaluation & leaderboard</li>
+        <li>Clean REST API architecture + responsive React frontend</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/codearena"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><b>🤖 AI Payment Failure Recovery Agent</b></h3>
@@ -77,13 +118,13 @@ developer:
         <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=probot&logoColor=white" />
         <img src="https://img.shields.io/badge/FinTech-00D2FF?style=flat-square" />
       </p>
-      <p>An intelligent agent system that autonomously identifies, analyzes, and executes recovery workflows for failed financial transactions and payment drops.</p>
+      <p>An intelligent agent designed to autonomously detect transaction errors, classify root causes, and execute recovery workflows to prevent customer churn and drop-offs.</p>
       <ul>
-        <li>Smart failure classification & heuristic triggers</li>
-        <li>Automated re-engagement & retry orchestration</li>
+        <li>Smart heuristics for financial error categorization</li>
+        <li>Automated retry policies & re-engagement actions</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Asifkarim683/ai-payment-failure-recovery-agent"><b>View Repository ➔</b></a>
+        <a href="https://github.com/Asifkarim683/ai-payment-failure-recovery-agent"><b>Explore Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -93,51 +134,33 @@ developer:
         <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/GenAI-8E75B2?style=flat-square" />
       </p>
-      <p>AI-driven resume parsing and ATS optimization engine using modern LLMs to extract insights, calculate role match scores, and generate customized resume suggestions.</p>
+      <p>AI-driven resume parsing and ATS optimization engine using modern LLMs to evaluate candidate resumes, calculate match scores against job postings, and offer targeted improvements.</p>
       <ul>
-        <li>Deep semantic analysis & keyword alignment</li>
-        <li>Automated structural formatting feedback</li>
+        <li>Automated semantic matching & keyword alignment</li>
+        <li>Instant formatting feedback & ATS readiness scoring</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Asifkarim683/ai-resume-agent"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>⚔️ CodeArena Platform</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
-      </p>
-      <p>Full-stack competitive coding platform featuring real-time code evaluation, interactive problem sets, leaderboard tracking, and an intuitive modern developer UI.</p>
-      <ul>
-        <li>Isolated code execution engine & test case checker</li>
-        <li>Spring Boot REST API + React interactive interface</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Asifkarim683/codearena"><b>View Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>☕ Enterprise Spring Boot Architectures</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-      </p>
-      <p>Production-grade backend architectures featuring modular service layer design, JWT security, custom exception handlers, and optimized database queries.</p>
-      <ul>
-        <li>Clean architecture & DTO mapping patterns</li>
-        <li>JPA transaction management & caching</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Asifkarim683?tab=repositories"><b>Explore All Repos ➔</b></a>
+        <a href="https://github.com/Asifkarim683/ai-resume-agent"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Certifications & Key Achievements
+
+<div align="center">
+
+| Achievement / Certificate | Issuing Organization / Details |
+| :--- | :--- |
+| **Research Paper Publication** | **IEEE (Institute of Electrical and Electronics Engineers)** — *Canine Sentiment Analysis Using Deep Learning (2025)* |
+| **20x AI & Prompting Skill Courses** | **Anthropic** — Advanced Prompt Engineering, LLM Capabilities & AI Workflows |
+| **Fullstack Java Developer Certification** | **Centurion University of Technology and Management** — Spring Boot, Java & React |
+| **5x Hackathon Top-3 Finishes** | **Odoo, IIT & Gen-AI Hackathons** — UI/UX Design & Rapid MVP Prototyping |
+| **Data Structures & Algorithms** | **GeeksforGeeks** — Algorithms, Problem Solving & Software Engineering Foundations |
+
+</div>
 
 ---
 
@@ -170,23 +193,27 @@ developer:
 
 <div align="center">
 
-  <p>I'm always excited to collaborate on groundbreaking full-stack platforms, autonomous AI systems, and high-performance open-source projects.</p>
+  <p>I'm open to discussing full-stack engineering, applied AI/ML initiatives, open-source projects, and new software development opportunities!</p>
 
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
   <a href="mailto:asifkarim683@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Asifkarim683">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://ieeexplore.ieee.org/document/11448757">
+    <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+  </a>
 
   <br/><br/>
   
-  <!-- Custom Animated Footer Banner -->
-  <img src="https://raw.githubusercontent.com/Asifkarim683/Asifkarim683/main/assets/footer.svg" width="100%" alt="Footer Banner" />
+  <!-- Custom Native Animated Footer Banner -->
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
