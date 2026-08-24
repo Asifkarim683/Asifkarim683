@@ -1,0 +1,194 @@
+<svg width="100%" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b11" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="blueGlow" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="80%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Shimmering Text Gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#38bdf8;#c084fc;#ffffff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="35%" stop-color="#e2e8f0">
+        <animate attributeName="stop-color" values="#e2e8f0;#60a5fa;#f472b6;#e2e8f0" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="70%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#c084fc;#38bdf8;#38bdf8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#ffffff;#38bdf8;#a855f7" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Laser Beam Gradient -->
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="1" />
+      <stop offset="75%" stop-color="#c084fc" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Filter for Glow -->
+    <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .font-main {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      }
+      .font-mono {
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+      }
+
+      /* Animated Floating Stars & Particles */
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px) scale(0.9); opacity: 0.3; }
+        50% { transform: translateY(-12px) scale(1.2); opacity: 0.9; }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translateY(0px) scale(1); opacity: 0.4; }
+        50% { transform: translateY(14px) scale(1.3); opacity: 0.8; }
+      }
+      @keyframes pulseDot {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(0.7); opacity: 0.4; }
+      }
+      @keyframes laserMove {
+        0% { transform: translateX(-900px); }
+        100% { transform: translateX(900px); }
+      }
+
+      .p-star-1 { animation: float1 4s ease-in-out infinite; }
+      .p-star-2 { animation: float2 5s ease-in-out infinite 1s; }
+      .p-star-3 { animation: float1 6s ease-in-out infinite 2s; }
+      .p-star-4 { animation: float2 4.5s ease-in-out infinite 0.5s; }
+      .pulse-dot { animation: pulseDot 2s ease-in-out infinite; transform-origin: 295px 44px; }
+      .laser-anim { animation: laserMove 4s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Card Background with Glowing Border -->
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#bgGradient)" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Atmospheric Glow Overlays -->
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#blueGlow)" />
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#purpleGlow)" />
+  <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#cyanGlow)" />
+
+  <!-- Cyber Grid Pattern Lines (Subtle) -->
+  <g opacity="0.07" stroke="#ffffff" stroke-width="1">
+    <line x1="100" y1="0" x2="100" y2="240" />
+    <line x1="200" y1="0" x2="200" y2="240" />
+    <line x1="300" y1="0" x2="300" y2="240" />
+    <line x1="400" y1="0" x2="400" y2="240" />
+    <line x1="500" y1="0" x2="500" y2="240" />
+    <line x1="600" y1="0" x2="600" y2="240" />
+    <line x1="700" y1="0" x2="700" y2="240" />
+    <line x1="800" y1="0" x2="800" y2="240" />
+    <line x1="0" y1="60" x2="900" y2="60" />
+    <line x1="0" y1="120" x2="900" y2="120" />
+    <line x1="0" y1="180" x2="900" y2="180" />
+  </g>
+
+  <!-- Floating Star Sparkles & Glowing Particles -->
+  <g class="p-star-1">
+    <circle cx="120" cy="65" r="2.5" fill="#38bdf8" filter="url(#softGlow)" />
+    <circle cx="780" cy="160" r="2" fill="#c084fc" filter="url(#softGlow)" />
+  </g>
+  <g class="p-star-2">
+    <circle cx="160" cy="180" r="3" fill="#818cf8" filter="url(#softGlow)" />
+    <circle cx="810" cy="70" r="2.5" fill="#34d399" filter="url(#softGlow)" />
+  </g>
+  <g class="p-star-3">
+    <circle cx="70" cy="120" r="1.5" fill="#f472b6" />
+    <circle cx="720" cy="50" r="2" fill="#38bdf8" />
+  </g>
+  <g class="p-star-4">
+    <circle cx="230" cy="40" r="2" fill="#a78bfa" />
+    <circle cx="850" cy="130" r="1.5" fill="#67e8f9" />
+  </g>
+
+  <!-- Top Status Pill Badge -->
+  <g filter="url(#softGlow)">
+    <rect x="270" y="30" width="360" height="28" rx="14" fill="#0f172a" fill-opacity="0.8" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
+  </g>
+  <!-- Green Live Indicator Dot -->
+  <circle class="pulse-dot" cx="295" cy="44" r="4.5" fill="#10b981" filter="url(#glowEffect)" />
+  <text x="455" y="49" fill="#93c5fd" font-size="11.5" font-weight="700" letter-spacing="2.2" text-anchor="middle" class="font-mono">
+    AI AGENTS &amp; FULL-STACK ARCHITECT
+  </text>
+
+  <!-- Main Hero Title -->
+  <text x="450" y="115" fill="url(#titleGradient)" font-size="44" font-weight="800" letter-spacing="1.5" text-anchor="middle" class="font-main" filter="url(#softGlow)">
+    ASIF KARIM
+  </text>
+
+  <!-- Subtitle with Bullet Points -->
+  <text x="450" y="152" fill="#94a3b8" font-size="14.5" font-weight="500" text-anchor="middle" class="font-main">
+    Autonomous AI Agents <tspan fill="#38bdf8">✦</tspan> Enterprise Spring Boot Systems <tspan fill="#38bdf8">✦</tspan> Modern Web Platforms
+  </text>
+
+  <!-- Interactive Tech Stack Pills -->
+  <g class="font-mono" font-size="11.5" font-weight="600" text-anchor="middle">
+    <!-- Pill 1: Spring Boot -->
+    <rect x="150" y="175" width="105" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="202" y="192" fill="#4ade80">⚡ Spring</text>
+
+    <!-- Pill 2: AI Agents -->
+    <rect x="268" y="175" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="325" y="192" fill="#38bdf8">🤖 AI Agents</text>
+
+    <!-- Pill 3: React / TS -->
+    <rect x="395" y="175" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="452" y="192" fill="#60a5fa">⚛️ React / TS</text>
+
+    <!-- Pill 4: Python -->
+    <rect x="522" y="175" width="100" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="572" y="192" fill="#fbbf24">🐍 Python</text>
+
+    <!-- Pill 5: Java -->
+    <rect x="634" y="175" width="95" height="26" rx="6" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="681" y="192" fill="#f87171">☕ Java</text>
+  </g>
+
+  <!-- Glowing Laser Line at Bottom -->
+  <line x1="14" y1="236" x2="886" y2="236" stroke="url(#laserGrad)" stroke-width="3" filter="url(#glowEffect)" />
+</svg>

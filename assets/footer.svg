@@ -1,0 +1,53 @@
+<svg width="100%" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b11" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+    <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="1" />
+      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94a3b8" />
+      <stop offset="50%" stop-color="#f1f5f9" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+    <filter id="footerGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      .font-mono {
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+      }
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px); opacity: 0.3; }
+        50% { transform: translateY(-6px); opacity: 0.8; }
+      }
+      .star-f { animation: floatSlow 3.5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="76" rx="12" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1" />
+  
+  <line x1="20" y1="4" x2="880" y2="4" stroke="url(#footerLineGrad)" stroke-width="2" filter="url(#footerGlow)" />
+  
+  <!-- Particles -->
+  <g class="star-f">
+    <circle cx="150" cy="40" r="2" fill="#38bdf8" />
+    <circle cx="750" cy="35" r="2" fill="#c084fc" />
+    <circle cx="450" cy="65" r="1.5" fill="#34d399" />
+  </g>
+
+  <text x="450" y="44" fill="url(#textGrad)" font-size="13" font-weight="600" letter-spacing="1.2" text-anchor="middle" class="font-mono">
+    ⚡ CRAFTED WITH PASSION BY ASIF KARIM • 2026 ⚡
+  </text>
+</svg>
