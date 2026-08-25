@@ -195,14 +195,6 @@ developer:
       </td>
     </tr>
   </table>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Asifkarim683&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF6F00&currStreakLabel=00D2FF" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asifkarim683&theme=tokyo-night&bg_color=0D1117&color=00D2FF&line=38BDF8&point=C084FC&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-  </p>
 </div>
 
 ---
