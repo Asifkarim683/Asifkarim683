@@ -179,9 +179,9 @@
     <rect x="480" y="176" width="95" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
     <text x="527" y="193" fill="#fbbf24">🐍 Python</text>
 
-    <!-- Pill 5: PHP / Laravel -->
+    <!-- Pill 5: TypeScript -->
     <rect x="585" y="176" width="115" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
-    <text x="642" y="193" fill="#a78bfa">🐘 PHP/Laravel</text>
+    <text x="642" y="193" fill="#38bdf8">🔷 TypeScript</text>
 
     <!-- Pill 6: Java -->
     <rect x="710" y="176" width="85" height="26" rx="6" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />

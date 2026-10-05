@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98%25+Acc);Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98%25+Acc);Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -32,13 +32,12 @@ developer:
   title: Web Development and AI Engineer
   summary: >
     Passionate engineer bridging full-stack web development with applied AI, autonomous agents & deep learning.
-    Experienced in designing scalable ERP systems, competitive judge engines (Spring Boot + React),
+    Experienced in designing competitive judge engines (Spring Boot + React),
     autonomous LangGraph agents, and publishing peer-reviewed deep learning research.
   key_highlights:
     - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
     - Major Project: Two-Stage Diabetic Retinopathy Detection & Severity AI (98.09% Acc, 0.96 Kappa)
     - Autonomous AI: LangGraph Agents, Local Private LLMs (Ollama), & Source-Grounded Multilingual RAG
-    - Industry Experience: Software Engineering Trainee at Skill Revelation India (PHP / ERP Systems)
     - Hackathons: Built 5 prototypes with top-3 podium finishes (Odoo, IIT, Gen-AI)
     - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
@@ -46,9 +45,9 @@ developer:
 - 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
 - 👁️ **Clinical Healthcare AI**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM attention heatmaps, and Gemini multimodal report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
 - 🤖 **Agentic & RAG Systems**: Engineered autonomous multi-agent state machines with **LangGraph**, local voice AI operating environments with **Ollama + Three.js**, and safety-guarded medical RAG assistants across 6 Indian languages.
-- 💼 **Industry Experience**: Built structured, responsive ERP systems and dynamic web applications at **Skill Revelation India**.
 - 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
 - ⚡ **Performance & UX Focus**: Track record of optimizing web application load times by 30% and implementing responsive layouts across 10+ production projects.
+- 🌱 **Continuous Learning**: Certified in 20 distinct Anthropic AI & Prompting courses, GeeksforGeeks DSA, and Fullstack Java development.
 
 ---
 
@@ -58,16 +57,16 @@ developer:
 
   <p><b>Core Languages, Frameworks &amp; Tools</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,php,laravel,js,ts,react,html,css,tailwind,postgres,mysql,mongodb,redis,docker,git,github,postman,cpp&perline=10&theme=dark" alt="Technical Arsenal" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,next,tailwind,postgres,mysql,mongodb,redis,docker,git,github,fastapi,postman,cpp,vite&perline=10&theme=dark" alt="Technical Arsenal" />
   </a>
 
   <br/><br/>
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `TypeScript` `JavaScript (ES6+)` `PHP` `SQL` `HTML5` `CSS3` `C++` |
-| **Backend & Microservices** | `Spring Boot` `Laravel` `PHP` `FastAPI` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` `tRPC` |
-| **Frontend & UI** | `React 19` `Tailwind CSS` `JavaScript` `TypeScript` `Three.js` `Monaco Editor` `Vite` |
+| **Languages** | `Java` `Python` `TypeScript` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` `C++` |
+| **Backend & Microservices** | `Spring Boot` `FastAPI` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` `tRPC` |
+| **Frontend & UI** | `React 19` `Next.js` `Tailwind CSS` `JavaScript` `TypeScript` `Three.js` `Monaco Editor` `Vite` |
 | **AI, Agents & Deep Learning** | `LangGraph` `LangChain` `PyTorch` `Computer Vision` `Google Gemini` `Ollama (Local LLMs)` `Prompt Engineering (Anthropic x20)` `RAG` |
 | **Databases & Storage** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite (WAL)` `Drizzle ORM` |
 | **DevOps & Tools** | `Docker & Docker Compose` `GitHub Actions CI/CD` `Git` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
@@ -199,46 +198,33 @@ developer:
 
 ---
 
-### ⚔️ 3. Full-Stack Systems & Enterprise Architecture
+### ⚔️ 3. Full-Stack Systems & Platform Architecture
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>⚔️ CodeArena: Online Coding & Judge Platform</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
-      </p>
-      <p>Full-stack competitive coding platform inspired by LeetCode. Features automated test-case evaluation, custom multi-language judge sandbox (Java, Python, C++, JS), anti-cheat timed contests, and live leaderboards.</p>
-      <ul>
-        <li><b>Architecture:</b> Spring Boot REST backend, JWT RBAC security, responsive React UI</li>
-        <li><b>Judge Engine:</b> Automated verdicts (Accepted, Wrong Answer, TLE, Runtime Error, CE)</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Asifkarim683/codearena"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>☕ Enterprise Spring Boot & ERP Architectures</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP_ERP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      </p>
-      <p>Production backend implementations focusing on modular layered architecture, clean DTO mapping, resilient database transactions, and structured PHP ERP web applications built at Skill Revelation India.</p>
-      <ul>
-        <li><b>Skills:</b> Spring Boot REST APIs, JPA transaction management, PHP dynamic web apps</li>
-        <li><b>Optimizations:</b> 30% reduction in web load times, 10+ responsive deployments</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Asifkarim683?tab=repositories"><b>View All Repositories ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="100%" valign="top">
+        <h3 align="center"><b>⚔️ CodeArena: Online Coding & Automated Judge Platform</b></h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
+          <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+          <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
+        </p>
+        <p>A full-stack competitive programming and judge platform inspired by LeetCode and HackerRank. Engineered with an automated test-case evaluation engine, custom multi-language compilation sandboxing (Java, Python, C++, and JavaScript), timed anti-cheat coding contests, and real-time leaderboards.</p>
+        <ul>
+          <li><b>Backend Architecture:</b> Spring Boot RESTful API service, JWT token-based authentication with Role-Based Access Control (RBAC), and session security.</li>
+          <li><b>Judge Engine & Sandbox:</b> Automated verdicts (Accepted, Wrong Answer, Time Limit Exceeded, Runtime Error, Compilation Error).</li>
+          <li><b>Interactive Frontend:</b> Responsive React UI integrated with Monaco Editor (VS Code core), problem search/filter indexing, and timed contest scoring.</li>
+        </ul>
+        <p align="center">
+          <a href="https://github.com/Asifkarim683/codearena"><b>Explore CodeArena Repository ➔</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
