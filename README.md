@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Major+Project:+Retinopathy+AI+(98%25+Acc);Anthropic+Certified+AI+%26+Prompting+Specialist;Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98%25+Acc);Building+Enterprise+Web+Apps+%26+ERP+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -31,23 +31,24 @@ developer:
   name: Asif Karim
   title: Web Development and AI Engineer
   summary: >
-    Passionate engineer bridging full-stack web development with applied AI & deep learning.
-    Experienced in designing scalable ERP systems, full-stack platforms (Spring Boot + React),
-    and publishing peer-reviewed deep learning research.
+    Passionate engineer bridging full-stack web development with applied AI, autonomous agents & deep learning.
+    Experienced in designing scalable ERP systems, competitive judge engines (Spring Boot + React),
+    autonomous LangGraph agents, and publishing peer-reviewed deep learning research.
   key_highlights:
-    - Major Project: Two-Stage Retinopathy Detection & Severity AI (98% Acc, 0.96 Kappa)
     - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
-    - Experience: Software Engineering Trainee at Skill Revelation India (PHP / ERP Systems)
+    - Major Project: Two-Stage Diabetic Retinopathy Detection & Severity AI (98.09% Acc, 0.96 Kappa)
+    - Autonomous AI: LangGraph Agents, Local Private LLMs (Ollama), & Source-Grounded Multilingual RAG
+    - Industry Experience: Software Engineering Trainee at Skill Revelation India (PHP / ERP Systems)
     - Hackathons: Built 5 prototypes with top-3 podium finishes (Odoo, IIT, Gen-AI)
     - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
 
-- 👁️ **Major Project**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM heatmaps, and Gemini 2.5 Flash clinical report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
 - 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
+- 👁️ **Clinical Healthcare AI**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM attention heatmaps, and Gemini multimodal report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
+- 🤖 **Agentic & RAG Systems**: Engineered autonomous multi-agent state machines with **LangGraph**, local voice AI operating environments with **Ollama + Three.js**, and safety-guarded medical RAG assistants across 6 Indian languages.
 - 💼 **Industry Experience**: Built structured, responsive ERP systems and dynamic web applications at **Skill Revelation India**.
 - 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
 - ⚡ **Performance & UX Focus**: Track record of optimizing web application load times by 30% and implementing responsive layouts across 10+ production projects.
-- 🌱 **Continuous Learning**: Certified in 20 distinct Anthropic AI & Prompting courses, GeeksforGeeks DSA, and Fullstack Java development.
 
 ---
 
@@ -64,41 +65,120 @@ developer:
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `PHP` `JavaScript (ES6+)` `TypeScript` `SQL` `HTML5` `CSS3` `C++` |
-| **Backend Development** | `Spring Boot` `Laravel` `PHP` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` |
-| **Frontend Development** | `React` `Tailwind CSS` `JavaScript` `Responsive UI/UX` `HTML5/CSS3` `Vite` |
-| **AI & Deep Learning** | `Deep Learning` `Computer Vision` `Machine Learning` `Prompt Engineering (Anthropic x20)` `LLM Agents` |
-| **Databases & Storage** | `MySQL` `PostgreSQL` `MongoDB` `Redis` `DBMS Principles` |
-| **DevOps & Tools** | `Git` `GitHub` `Docker` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
+| **Languages** | `Java` `Python` `TypeScript` `JavaScript (ES6+)` `PHP` `SQL` `HTML5` `CSS3` `C++` |
+| **Backend & Microservices** | `Spring Boot` `Laravel` `PHP` `FastAPI` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` `tRPC` |
+| **Frontend & UI** | `React 19` `Tailwind CSS` `JavaScript` `TypeScript` `Three.js` `Monaco Editor` `Vite` |
+| **AI, Agents & Deep Learning** | `LangGraph` `LangChain` `PyTorch` `Computer Vision` `Google Gemini` `Ollama (Local LLMs)` `Prompt Engineering (Anthropic x20)` `RAG` |
+| **Databases & Storage** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite (WAL)` `Drizzle ORM` |
+| **DevOps & Tools** | `Docker & Docker Compose` `GitHub Actions CI/CD` `Git` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
 
 </div>
 
 ---
 
-### 🚀 Key Projects & Research
+### 🤖 1. Autonomous AI & Agentic Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><b>👁️ Diabetic Retinopathy AI (Major Project)</b></h3>
+      <h3 align="center"><b>💸 Recoverly.ai (Payment Recovery Agent)</b></h3>
+      <p align="center">
+        <a href="https://payment-recovery-agent-three.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Vercel_Production-000000.svg?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <img src="https://img.shields.io/badge/TypeScript-5.9-blue.svg?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-19.2-61dafb.svg?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Gemini_3.5-8e75ff.svg?style=flat-square&logo=google" />
+      </p>
+      <p>Autonomous AI agent system designed to detect transaction errors, classify root causes via smart heuristics, and execute proactive recovery workflows to eliminate customer drop-offs.</p>
+      <ul>
+        <li><b>Tech Stack:</b> TypeScript 5.9, React 19, Google Gemini 3.5, Tailwind CSS 4.1, tRPC v11, Drizzle ORM, PostgreSQL</li>
+        <li><b>Live Deployment:</b> <a href="https://payment-recovery-agent-three.vercel.app"><b>payment-recovery-agent-three.vercel.app</b></a></li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/ai-payment-failure-recovery-agent"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>⚡ ResuForge AI (ATS & Interview Studio)</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-Orchestration-orange.svg?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama_3.3_70B-Groq-f55036.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>Autonomous, multi-node agent state machine that performs ATS compliance audits, STAR-method bullet optimization, 6-second recruiter scans, and mock interview simulations.</p>
+      <ul>
+        <li><b>Tech Stack:</b> Python, LangGraph state machine, Groq Llama 3.3 70B, FastAPI, Streamlit, Docker</li>
+        <li><b>Reasoning Engine:</b> Graph-based multi-step candidate evaluation and outreach generation</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/ai-resume-agent"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>🧠 Zyra (Cybernetic Voice AI & OS)</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-3D_UI-000000?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js_VM-Sandbox-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>Local, privacy-first autonomous AI companion and voice operational environment featuring neural speech synthesis, typo-tolerant spell healing, dynamic audio player, and isolated VM math execution.</p>
+      <ul>
+        <li><b>Tech Stack:</b> TypeScript, React 18, Ollama, Three.js 3D sphere, SQLite WAL, Node.js VM</li>
+        <li><b>Architecture:</b> Offline local inference, semantic vector memory, proactive intelligence</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/zyra-agent"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>🏥 Multilingual Health RAG Assistant</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RAG-Source_Grounded-blue.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Languages-6_Indian_Langs-FF9933.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p>Safety-first, source-grounded Retrieval-Augmented Generation assistant answering community health questions in <b>Hindi, Odia, Bengali, Telugu, Tamil, and English</b> with verified citations.</p>
+      <ul>
+        <li><b>Tech Stack:</b> Python 3.10+, FastAPI, LangChain, React, Docker Compose, CI/CD Pipeline</li>
+        <li><b>Safety Guardrails:</b> Strict medical boundaries and anti-hallucination citation checks</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Asifkarim683/Multilingual-health-FAQ-assistant-for-local-languages"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👁️ 2. Computer Vision & Healthcare AI Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>👁️ Diabetic Retinopathy Diagnostic AI (Major Project)</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-2.2%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Accuracy-98.09%25-brightgreen?style=flat-square" />
       </p>
-      <p>A two-stage deep learning pipeline for automated retinal fundus screening and 4-tier severity grading with Ben Graham preprocessing, Grad-CAM visual heatmaps, and Gemini multimodal clinical reports.</p>
+      <p>Two-stage deep learning pipeline for automated retinal fundus screening and 4-tier severity grading with Ben Graham preprocessing, Grad-CAM visual heatmaps, and Gemini multimodal clinical reports.</p>
       <ul>
         <li><b>Stage 1:</b> Binary screening (98.09% Acc, 0.9988 AUC, 0.9614 Kappa)</li>
         <li><b>Stage 2:</b> Multi-class severity classification (Mild, Moderate, Severe, Proliferative)</li>
-        <li><b>Explainable AI & GenAI:</b> Grad-CAM attention maps + doctor-style Gemini diagnosis notes</li>
+        <li><b>Explainable AI:</b> Grad-CAM attention heatmaps + automated doctor-style diagnostic notes</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning"><b>Explore Major Project Repo ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><b>📜 IEEE Research: Canine Sentiment Analysis</b></h3>
+      <h3 align="center"><b>📜 IEEE Research: Canine Sentiment Analysis (2025)</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/IEEE_Xplore-2025-00629B?style=flat-square&logo=ieee&logoColor=white" />
         <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
@@ -107,58 +187,54 @@ developer:
       <p>Peer-reviewed scientific research paper utilizing computer vision and deep learning architectures to classify and interpret sentiment patterns from canine facial and behavioral features.</p>
       <ul>
         <li>Published by the Institute of Electrical and Electronics Engineers (IEEE)</li>
-        <li>Document ID: <a href="https://ieeexplore.ieee.org/document/11448757"><b>IEEE Xplore #11448757</b></a></li>
+        <li>Document Identifier: <a href="https://ieeexplore.ieee.org/document/11448757"><b>IEEE Xplore #11448757</b></a></li>
+        <li><b>Domain:</b> Animal welfare diagnostics & deep visual feature extraction</li>
       </ul>
       <p align="center">
         <a href="https://ieeexplore.ieee.org/document/11448757"><b>Read Publication on IEEE ➔</b></a>
       </p>
     </td>
   </tr>
+</table>
+
+---
+
+### ⚔️ 3. Full-Stack Systems & Enterprise Architecture
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><b>⚔️ CodeArena: Coding Platform</b></h3>
+      <h3 align="center"><b>⚔️ CodeArena: Online Coding & Judge Platform</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
         <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
       </p>
-      <p>A full-stack competitive programming and coding platform built with Spring Boot and React, engineered during the Fullstack Java Developer certification at Centurion University.</p>
+      <p>Full-stack competitive coding platform inspired by LeetCode. Features automated test-case evaluation, custom multi-language judge sandbox (Java, Python, C++, JS), anti-cheat timed contests, and live leaderboards.</p>
       <ul>
-        <li>Interactive problem sets, test case evaluation & leaderboard</li>
-        <li>Clean REST API architecture + responsive React frontend</li>
+        <li><b>Architecture:</b> Spring Boot REST backend, JWT RBAC security, responsive React UI</li>
+        <li><b>Judge Engine:</b> Automated verdicts (Accepted, Wrong Answer, TLE, Runtime Error, CE)</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Asifkarim683/codearena"><b>Explore Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><b>🤖 AI Payment Failure Recovery Agent</b></h3>
+      <h3 align="center"><b>☕ Enterprise Spring Boot & ERP Architectures</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=probot&logoColor=white" />
-        <img src="https://img.shields.io/badge/FinTech-00D2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP_ERP-777BB4?style=flat-square&logo=php&logoColor=white" />
       </p>
-      <p>An intelligent agent designed to autonomously detect transaction errors, classify root causes, and execute recovery workflows to prevent customer churn and drop-offs.</p>
+      <p>Production backend implementations focusing on modular layered architecture, clean DTO mapping, resilient database transactions, and structured PHP ERP web applications built at Skill Revelation India.</p>
       <ul>
-        <li>Smart heuristics for financial error categorization</li>
-        <li>Automated retry policies & re-engagement actions</li>
+        <li><b>Skills:</b> Spring Boot REST APIs, JPA transaction management, PHP dynamic web apps</li>
+        <li><b>Optimizations:</b> 30% reduction in web load times, 10+ responsive deployments</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Asifkarim683/ai-payment-failure-recovery-agent"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center"><b>📄 AI Resume Agent</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI-8E75B2?style=flat-square" />
-      </p>
-      <p align="center">AI-driven resume parsing and ATS optimization engine using modern LLMs to evaluate candidate resumes, calculate match scores against job postings, and offer targeted improvements.</p>
-      <p align="center">
-        <a href="https://github.com/Asifkarim683/ai-resume-agent"><b>Explore Repository ➔</b></a>
+        <a href="https://github.com/Asifkarim683?tab=repositories"><b>View All Repositories ➔</b></a>
       </p>
     </td>
   </tr>
