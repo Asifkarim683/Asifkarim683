@@ -33,8 +33,9 @@ developer:
   summary: >
     Passionate engineer bridging full-stack web development with applied AI, autonomous agents & deep learning.
     Experienced in designing competitive judge engines (Spring Boot + React),
-    autonomous LangGraph agents, and publishing peer-reviewed deep learning research.
+    autonomous LangGraph agents, enterprise web applications, and publishing peer-reviewed deep learning research.
   key_highlights:
+    - Experience: Software Engineering Trainee at Skill Revelation India (Web & ERP Systems)
     - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
     - Major Project: Two-Stage Diabetic Retinopathy Detection & Severity AI (98.09% Acc, 0.96 Kappa)
     - Autonomous AI: LangGraph Agents, Local Private LLMs (Ollama), & Source-Grounded Multilingual RAG
@@ -42,12 +43,12 @@ developer:
     - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
 
+- 💼 **Professional Experience**: Software Engineering Trainee at **Skill Revelation India**, building structured, responsive ERP systems and dynamic web applications with a focus on performance optimization (achieved 30% reduction in load times).
 - 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
 - 👁️ **Clinical Healthcare AI**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM attention heatmaps, and Gemini multimodal report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
 - 🤖 **Agentic & RAG Systems**: Engineered autonomous multi-agent state machines with **LangGraph**, local voice AI operating environments with **Ollama + Three.js**, and safety-guarded medical RAG assistants across 6 Indian languages.
 - 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
-- ⚡ **Performance & UX Focus**: Track record of optimizing web application load times by 30% and implementing responsive layouts across 10+ production projects.
-- 🌱 **Continuous Learning**: Certified in 20 distinct Anthropic AI & Prompting courses, GeeksforGeeks DSA, and Fullstack Java development.
+- ⚡ **Performance & UX Focus**: Track record of optimizing web application performance and implementing responsive layouts across 10+ production projects.
 
 ---
 
@@ -70,6 +71,19 @@ developer:
 | **AI, Agents & Deep Learning** | `LangGraph` `LangChain` `PyTorch` `Computer Vision` `Google Gemini` `Ollama (Local LLMs)` `Prompt Engineering (Anthropic x20)` `RAG` |
 | **Databases & Storage** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite (WAL)` `Drizzle ORM` |
 | **DevOps & Tools** | `Docker & Docker Compose` `GitHub Actions CI/CD` `Git` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
+
+</div>
+
+---
+
+### 💼 Professional Experience & Engineering Background
+
+<div align="center">
+
+| Role & Organization | Key Focus & Impact |
+| :--- | :--- |
+| **Software Engineering Trainee** <br/>*Skill Revelation India* | • Engineered structured, responsive ERP web applications and modular database schemas.<br/>• Optimized frontend rendering and asset delivery, achieving a **30% reduction in page load times**.<br/>• Built mobile-first responsive interfaces across **10+ web projects**, increasing engagement. |
+| **Fullstack Java Developer Trainee** <br/>*Centurion University of Technology and Management* | • Architected **CodeArena**, a competitive coding platform with an automated multi-language judge sandbox.<br/>• Designed Spring Boot RESTful microservices, JPA transaction management, and JWT role-based security. |
 
 </div>
 
