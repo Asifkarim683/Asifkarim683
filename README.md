@@ -1,15 +1,9 @@
 <div align="center">
-
   <!-- Custom Native Animated Neon Header Banner -->
   <img src="./assets/header.svg" width="100%" alt="Asif Karim - Web Development & AI Engineer" />
-
-  <br/><br/>
-
-  <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98.09%25+Acc);Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=35&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98.09%25+Acc);Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
   </a>
-
   <p align="center">
     <a href="mailto:asifkarim683@gmail.com"><img src="https://img.shields.io/badge/Email-asifkarim683%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;
@@ -21,7 +15,6 @@
     &nbsp;
     <a href="https://github.com/Asifkarim683?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
   </p>
-
 </div>
 
 ---
