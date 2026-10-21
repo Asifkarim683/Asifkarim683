@@ -7,15 +7,17 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Asifkarim683">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98%25+Acc);Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Web+Development+%26+Applied+AI+Engineer;Full-Stack+Architect+(Spring+Boot+%2B+React);IEEE+Published+Researcher+in+Deep+Learning;Autonomous+AI+Agents+%26+LangGraph+Architect;Major+Project:+Retinopathy+AI+(98.09%25+Acc);Building+Scalable+Full-Stack+Platforms" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="mailto:asifkarim683@gmail.com"><img src="https://img.shields.io/badge/Email-asifkarim683%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;
+    <a href="https://linkedin.com/in/asif-karim-a1b100349"><img src="https://img.shields.io/badge/LinkedIn-asif--karim--a1b100349-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
     <a href="https://ieeexplore.ieee.org/document/11448757"><img src="https://img.shields.io/badge/IEEE_Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
     &nbsp;
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG"><img src="https://img.shields.io/badge/Certifications_&_Proof-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certifications Drive" /></a>
     &nbsp;
     <a href="https://github.com/Asifkarim683?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
   </p>
@@ -32,23 +34,23 @@ developer:
   title: Web Development and AI Engineer
   summary: >
     Passionate engineer bridging full-stack web development with applied AI, autonomous agents & deep learning.
-    Experienced in designing competitive judge engines (Spring Boot + React),
-    autonomous LangGraph agents, enterprise web applications, and publishing peer-reviewed deep learning research.
+    Experienced in building full-stack platforms (React, Spring Boot, FastAPI),
+    autonomous LangGraph agents, and publishing peer-reviewed deep learning research.
   key_highlights:
-    - Experience: Software Engineering Trainee at Skill Revelation India (Web & ERP Systems)
-    - Research: Published IEEE Xplore Author in Deep Learning & Computer Vision (2025)
-    - Major Project: Two-Stage Diabetic Retinopathy Detection & Severity AI (98.09% Acc, 0.96 Kappa)
+    - Experience: Software Engineering Trainee at Skill Revelation India (Nov 2025 - Apr 2026, 5 mos)
+    - Research: Published IEEE Xplore Author in Computer Vision & Deep Learning (2025)
+    - Major Project: Two-Stage Diabetic Retinopathy Detection & Severity AI (98.09% Acc, 0.9988 AUC)
     - Autonomous AI: LangGraph Agents, Local Private LLMs (Ollama), & Source-Grounded Multilingual RAG
-    - Hackathons: Built 5 prototypes with top-3 podium finishes (Odoo, IIT, Gen-AI)
+    - Hackathons: Team Lead & UI Designer across Odoo, IIT, and Gen-AI (5 working prototypes)
     - Certifications: Anthropic AI Certified (20 Courses) | Fullstack Java (Centurion Univ)
 ```
 
-- 💼 **Professional Experience**: Software Engineering Trainee at **Skill Revelation India**, building structured, responsive ERP systems and dynamic web applications with a focus on performance optimization (achieved 30% reduction in load times).
 - 🔬 **Published Researcher**: Author of *Canine Sentiment Analysis Using Deep Learning* published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11448757) (2025).
 - 👁️ **Clinical Healthcare AI**: Built an end-to-end **Two-Stage Diabetic Retinopathy Diagnostic System** with PyTorch, Grad-CAM attention heatmaps, and Gemini multimodal report generation ([Repository](https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning)).
 - 🤖 **Agentic & RAG Systems**: Engineered autonomous multi-agent state machines with **LangGraph**, local voice AI operating environments with **Ollama + Three.js**, and safety-guarded medical RAG assistants across 6 Indian languages.
-- 🏆 **Hackathon Competitor**: Designed intuitive user interfaces and architectures for 5 successful hackathon prototypes with top-3 finishes across Odoo, IIT, and Gen-AI events.
-- ⚡ **Performance & UX Focus**: Track record of optimizing web application performance and implementing responsive layouts across 10+ production projects.
+- 💼 **Professional Experience**: Software Engineering Trainee at **Skill Revelation India** (Nov 2025 – Apr 2026, 5 months), building structured ERP modules in PHP with responsive, mobile-friendly pages from design through deployment.
+- 🏆 **Hackathon Leadership**: Participated as **Team Lead and UI Designer**, engineering 5 working prototypes across **Odoo, IIT, and Gen-AI** hackathons.
+- ⚡ **Performance & UX Focus**: Track record of optimizing web application load times by 30% and implementing responsive layouts across 10+ production projects.
 
 ---
 
@@ -58,32 +60,30 @@ developer:
 
   <p><b>Core Languages, Frameworks &amp; Tools</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,next,tailwind,postgres,mysql,mongodb,redis,docker,git,github,fastapi,postman,cpp,vite&perline=10&theme=dark" alt="Technical Arsenal" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,react,spring,fastapi,laravel,tailwind,postgres,mysql,sqlite,docker,githubactions,git,github,postman,cpp,vite&perline=10&theme=dark" alt="Technical Arsenal" />
   </a>
 
   <br/><br/>
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `TypeScript` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` `C++` |
-| **Backend & Microservices** | `Spring Boot` `FastAPI` `RESTful APIs` `Node.js` `Express.js` `Hibernate / JPA` `tRPC` |
-| **Frontend & UI** | `React 19` `Next.js` `Tailwind CSS` `JavaScript` `TypeScript` `Three.js` `Monaco Editor` `Vite` |
-| **AI, Agents & Deep Learning** | `LangGraph` `LangChain` `PyTorch` `Computer Vision` `Google Gemini` `Ollama (Local LLMs)` `Prompt Engineering (Anthropic x20)` `RAG` |
-| **Databases & Storage** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite (WAL)` `Drizzle ORM` |
-| **DevOps & Tools** | `Docker & Docker Compose` `GitHub Actions CI/CD` `Git` `Postman` `VS Code` `IntelliJ IDEA` `Linux` |
+| **Languages** | `Python` `Java` `JavaScript` `TypeScript` `SQL` `PHP` `HTML` `CSS` `C++` |
+| **Web & Backend** | `React` `Spring Boot` `FastAPI` `Laravel` `REST APIs` `JWT Authentication` `Tailwind CSS` `tRPC` `Node.js` |
+| **AI & Machine Learning** | `PyTorch` `LangChain` `LangGraph` `RAG` `LLMs` `Ollama` `Google Gemini` `Computer Vision` `Deep Learning` `Prompt Engineering` |
+| **Databases & Tools** | `PostgreSQL` `MySQL` `SQLite` `Docker` `GitHub Actions` `Git` `GitHub` `Postman` `VS Code` `Linux` |
 
 </div>
 
 ---
 
-### 💼 Professional Experience & Engineering Background
+### 💼 Professional Experience & Background
 
 <div align="center">
 
-| Role & Organization | Key Focus & Impact |
-| :--- | :--- |
-| **Software Engineering Trainee** <br/>*Skill Revelation India* | • Engineered structured, responsive ERP web applications and modular database schemas.<br/>• Optimized frontend rendering and asset delivery, achieving a **30% reduction in page load times**.<br/>• Built mobile-first responsive interfaces across **10+ web projects**, increasing engagement. |
-| **Fullstack Java Developer Trainee** <br/>*Centurion University of Technology and Management* | • Architected **CodeArena**, a competitive coding platform with an automated multi-language judge sandbox.<br/>• Designed Spring Boot RESTful microservices, JPA transaction management, and JWT role-based security. |
+| Role & Organization | Timeline | Key Focus & Impact |
+| :--- | :--- | :--- |
+| **Software Engineering Trainee** <br/>*Skill Revelation India* | **Nov 2025 – Apr 2026** <br/>*(5 months)* | • Built structured ERP modules in PHP with responsive, mobile-friendly pages from design through deployment.<br/>• Optimized asset delivery and query execution, achieving a **30% reduction in page load times**.<br/>• Implemented responsive UI components across **10+ web projects**, boosting mobile engagement. |
+| **Hackathon Team Lead & UI Designer** <br/>*Odoo, IIT, Gen-AI* | **2024 – 2026** | • Led multidisciplinary teams and designed user-focused interfaces for **5 working prototypes**.<br/>• Achieved top-three podium finishes solving enterprise workflow and generative AI challenges. |
 
 </div>
 
@@ -101,9 +101,9 @@ developer:
         <img src="https://img.shields.io/badge/React-19.2-61dafb.svg?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Gemini_3.5-8e75ff.svg?style=flat-square&logo=google" />
       </p>
-      <p>Autonomous AI agent system designed to detect transaction errors, classify root causes via smart heuristics, and execute proactive recovery workflows to eliminate customer drop-offs.</p>
+      <p>Autonomous AI agent system designed to detect failed transactions, classify root causes via smart heuristics, and trigger automated recovery workflows. Deployed on Vercel.</p>
       <ul>
-        <li><b>Tech Stack:</b> TypeScript 5.9, React 19, Google Gemini 3.5, Tailwind CSS 4.1, tRPC v11, Drizzle ORM, PostgreSQL</li>
+        <li><b>Tech Stack:</b> TypeScript, React, Google Gemini, tRPC, Drizzle ORM, PostgreSQL</li>
         <li><b>Live Deployment:</b> <a href="https://payment-recovery-agent-three.vercel.app"><b>payment-recovery-agent-three.vercel.app</b></a></li>
       </ul>
       <p align="center">
@@ -118,7 +118,7 @@ developer:
         <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p>Autonomous, multi-node agent state machine that performs ATS compliance audits, STAR-method bullet optimization, 6-second recruiter scans, and mock interview simulations.</p>
+      <p>Autonomous multi-node agent that runs comprehensive ATS audits, rewrites resume bullets in STAR format, scans resumes like a recruiter, and simulates mock technical interviews.</p>
       <ul>
         <li><b>Tech Stack:</b> Python, LangGraph state machine, Groq Llama 3.3 70B, FastAPI, Streamlit, Docker</li>
         <li><b>Reasoning Engine:</b> Graph-based multi-step candidate evaluation and outreach generation</li>
@@ -130,17 +130,17 @@ developer:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><b>🧠 Zyra (Cybernetic Voice AI & OS)</b></h3>
+      <h3 align="center"><b>🧠 Zyra (Local Voice AI Assistant & OS)</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-3D_UI-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js_VM-Sandbox-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
-      <p>Local, privacy-first autonomous AI companion and voice operational environment featuring neural speech synthesis, typo-tolerant spell healing, dynamic audio player, and isolated VM math execution.</p>
+      <p>Privacy-first autonomous voice assistant running local LLMs through Ollama, with an interactive Three.js 3D interface and persistent memory in SQLite.</p>
       <ul>
-        <li><b>Tech Stack:</b> TypeScript, React 18, Ollama, Three.js 3D sphere, SQLite WAL, Node.js VM</li>
-        <li><b>Architecture:</b> Offline local inference, semantic vector memory, proactive intelligence</li>
+        <li><b>Tech Stack:</b> TypeScript, React, Ollama, Three.js 3D sphere, SQLite WAL, Node.js VM</li>
+        <li><b>Architecture:</b> Offline local inference, neural voice synthesis, dynamic player, math sandboxing</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Asifkarim683/zyra-agent"><b>Explore Repository ➔</b></a>
@@ -154,10 +154,10 @@ developer:
         <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
-      <p>Safety-first, source-grounded Retrieval-Augmented Generation assistant answering community health questions in <b>Hindi, Odia, Bengali, Telugu, Tamil, and English</b> with verified citations.</p>
+      <p>Source-grounded RAG assistant answering health questions in 6 languages (<b>Hindi, Odia, Bengali, Telugu, Tamil, English</b>) with citations, safety guardrails, and anti-hallucination citation checks.</p>
       <ul>
-        <li><b>Tech Stack:</b> Python 3.10+, FastAPI, LangChain, React, Docker Compose, CI/CD Pipeline</li>
-        <li><b>Safety Guardrails:</b> Strict medical boundaries and anti-hallucination citation checks</li>
+        <li><b>Tech Stack:</b> FastAPI, LangChain, React, Docker Compose, GitHub Actions CI/CD Pipeline</li>
+        <li><b>Safety Guardrails:</b> Strict medical boundaries and verifiable source-grounded answers</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Asifkarim683/Multilingual-health-FAQ-assistant-for-local-languages"><b>Explore Repository ➔</b></a>
@@ -180,11 +180,11 @@ developer:
         <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Accuracy-98.09%25-brightgreen?style=flat-square" />
       </p>
-      <p>Two-stage deep learning pipeline for automated retinal fundus screening and 4-tier severity grading with Ben Graham preprocessing, Grad-CAM visual heatmaps, and Gemini multimodal clinical reports.</p>
+      <p>Two-stage deep learning pipeline for retinal screening (<b>98.09% accuracy, 0.9988 AUC</b>) and 4-level severity grading with Grad-CAM heatmaps and Gemini-generated clinical-style reports for explainability.</p>
       <ul>
-        <li><b>Stage 1:</b> Binary screening (98.09% Acc, 0.9988 AUC, 0.9614 Kappa)</li>
-        <li><b>Stage 2:</b> Multi-class severity classification (Mild, Moderate, Severe, Proliferative)</li>
-        <li><b>Explainable AI:</b> Grad-CAM attention heatmaps + automated doctor-style diagnostic notes</li>
+        <li><b>Stage 1:</b> High-sensitivity binary screening (98.09% Acc, 0.9988 AUC, 0.9614 Kappa)</li>
+        <li><b>Stage 2:</b> 4-level severity classification (Mild, Moderate, Severe, Proliferative)</li>
+        <li><b>Explainability:</b> Grad-CAM attention heatmaps + automated doctor-style diagnostic summaries</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Asifkarim683/Diabetic-Retinopathy-detection-using-deep-learning"><b>Explore Major Project Repo ➔</b></a>
@@ -197,11 +197,11 @@ developer:
         <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/Computer_Vision-00D2FF?style=flat-square" />
       </p>
-      <p>Peer-reviewed scientific research paper utilizing computer vision and deep learning architectures to classify and interpret sentiment patterns from canine facial and behavioral features.</p>
+      <p>Peer-reviewed scientific research paper published in IEEE Xplore utilizing computer vision and deep learning architectures to classify and interpret sentiment patterns from canine facial features.</p>
       <ul>
-        <li>Published by the Institute of Electrical and Electronics Engineers (IEEE)</li>
-        <li>Document Identifier: <a href="https://ieeexplore.ieee.org/document/11448757"><b>IEEE Xplore #11448757</b></a></li>
-        <li><b>Domain:</b> Animal welfare diagnostics & deep visual feature extraction</li>
+        <li><b>Publication:</b> Institute of Electrical and Electronics Engineers (IEEE Xplore, 2025)</li>
+        <li><b>Document Identifier:</b> <a href="https://ieeexplore.ieee.org/document/11448757"><b>IEEE Xplore #11448757</b></a></li>
+        <li><b>Domain:</b> Animal sentiment analysis & deep computer vision feature extraction</li>
       </ul>
       <p align="center">
         <a href="https://ieeexplore.ieee.org/document/11448757"><b>Read Publication on IEEE ➔</b></a>
@@ -226,11 +226,11 @@ developer:
           <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
           <img src="https://img.shields.io/badge/Full_Stack-blue?style=flat-square" />
         </p>
-        <p>A full-stack competitive programming and judge platform inspired by LeetCode and HackerRank. Engineered with an automated test-case evaluation engine, custom multi-language compilation sandboxing (Java, Python, C++, and JavaScript), timed anti-cheat coding contests, and real-time leaderboards.</p>
+        <p>A full-stack LeetCode-style platform with an automated judge for Java, Python, C++, and JavaScript, JWT role-based access control, timed contests, and live leaderboards.</p>
         <ul>
-          <li><b>Backend Architecture:</b> Spring Boot RESTful API service, JWT token-based authentication with Role-Based Access Control (RBAC), and session security.</li>
-          <li><b>Judge Engine & Sandbox:</b> Automated verdicts (Accepted, Wrong Answer, Time Limit Exceeded, Runtime Error, Compilation Error).</li>
-          <li><b>Interactive Frontend:</b> Responsive React UI integrated with Monaco Editor (VS Code core), problem search/filter indexing, and timed contest scoring.</li>
+          <li><b>Judge Engine & Sandbox:</b> Automated test-case execution engine delivering real-time verdicts (Accepted, Wrong Answer, TLE, Runtime Error, Compilation Error).</li>
+          <li><b>Backend Architecture:</b> Spring Boot REST API service, JWT token authentication, and session security.</li>
+          <li><b>Interactive Frontend:</b> Responsive React UI integrated with Monaco Editor, problem search/filter indexing, and timed contest scoring.</li>
         </ul>
         <p align="center">
           <a href="https://github.com/Asifkarim683/codearena"><b>Explore CodeArena Repository ➔</b></a>
@@ -242,17 +242,23 @@ developer:
 
 ---
 
-### 🏆 Certifications & Key Achievements
+### 🏆 Certifications & Verification
 
 <div align="center">
 
-| Achievement / Certificate | Issuing Organization / Details |
-| :--- | :--- |
-| **Research Paper Publication** | **IEEE (Institute of Electrical and Electronics Engineers)** — *Canine Sentiment Analysis Using Deep Learning (2025)* |
-| **20x AI & Prompting Skill Courses** | **Anthropic** — Advanced Prompt Engineering, LLM Capabilities & AI Workflows |
-| **Fullstack Java Developer Certification** | **Centurion University of Technology and Management** — Spring Boot, Java & React |
-| **5x Hackathon Top-3 Finishes** | **Odoo, IIT & Gen-AI Hackathons** — UI/UX Design & Rapid MVP Prototyping |
-| **Data Structures & Algorithms** | **GeeksforGeeks** — Algorithms, Problem Solving & Software Engineering Foundations |
+| Certificate / Milestone | Issuing Organization | Verification & Proof |
+| :--- | :--- | :--- |
+| **Research Paper Publication** | **IEEE Xplore** *(2025)* | [IEEE Document #11448757](https://ieeexplore.ieee.org/document/11448757) |
+| **20x AI & Prompt Engineering Courses** | **Anthropic** | [Google Drive Credential Folder](https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG) |
+| **Fullstack Java Developer Certification** | **Centurion University of Technology and Management** | [Google Drive Credential Folder](https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG) |
+| **Data Structures and Algorithms** | **GeeksforGeeks** | [Google Drive Credential Folder](https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG) |
+| **5x Hackathon Working Prototypes** | **Odoo, IIT & Gen-AI Hackathons** | [Google Drive Credential Folder](https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG) |
+
+<br/>
+
+<a href="https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG">
+  <img src="https://img.shields.io/badge/📁_View_All_Verified_Certificates_&_Participations-Drive_Folder-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive Folder" />
+</a>
 
 </div>
 
@@ -279,22 +285,26 @@ developer:
 
 <div align="center">
 
-  <p>I'm open to discussing full-stack engineering, applied AI/ML initiatives, open-source projects, and new software development opportunities!</p>
+  <p>I'm looking for roles and opportunities that combine full-stack web development with applied AI & deep learning!</p>
 
   <a href="mailto:asifkarim683@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-asifkarim683%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/asif-karim-a1b100349">
+    <img src="https://img.shields.io/badge/LinkedIn-asif--karim--a1b100349-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Asifkarim683">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Asifkarim683-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://ieeexplore.ieee.org/document/11448757">
-    <img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+    <img src="https://img.shields.io/badge/IEEE_Xplore-11448757-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1PObzilRz2YIutB7J6mgMuFSFgKsYQCJG">
+    <img src="https://img.shields.io/badge/Drive_Portfolio-Proof_of_Work-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certifications Drive" />
   </a>
 
   <br/><br/>
